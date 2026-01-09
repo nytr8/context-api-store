@@ -11,7 +11,7 @@ const ProductDetails = () => {
   return (
     <div >
       <div className="min-h-screen bg-neutral-900 text-white px-6 py-10 pt-20">
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 bg-stone-800 rounded-2xl p-6">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 bg-stone-00 rounded-2xl p-6">
           {/* Image Section */}
           <div className="bg-white rounded-xl flex items-center justify-center p-6">
             <img
