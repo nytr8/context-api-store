@@ -12,7 +12,7 @@ const ProductContext = ({ children }) => {
     fetchProducts();
   }, []);
   return (
-    <div>
+    <div >
       <ProductDataContext.Provider value={productData}>
         {children}
       </ProductDataContext.Provider>
